@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my page
 ---
 
 I am Captain America, and this is about me flying flying pseudo
